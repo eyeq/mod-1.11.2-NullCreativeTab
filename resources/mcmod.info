@@ -1,0 +1,9 @@
+[
+{
+	"modid": "eyeq_nullcreativetab",
+	"name": "NullCreativeTab",
+	"description": "クリエイティブタブの登録",
+	"authorList": ["eyeq"],
+	"credits": ""
+}
+]
